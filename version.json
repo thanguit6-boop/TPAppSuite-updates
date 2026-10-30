@@ -1,6 +1,8 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "versions": [
+    { "version": "1.0.2", "date": "2026-11-05", "note": "Mô tả thay đổi",
+      "url": "https://github.com/thanguit6-boop/TPAppSuite-updates/releases/tag/v1.0.2" },
     { "version": "1.0.1", "date": "2026-10-30", "note": "Mô tả thay đổi",
       "url": "https://github.com/thanguit6-boop/TPAppSuite-updates/releases/tag/v1.0.1" }
   ]
